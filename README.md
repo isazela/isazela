@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @isazela
+- 👋🏽 Hi, I’m @isazela
 - 👀 I’m interested in neuroqueer spirituality & poetry
-- 🌱 I’m currently learning Markdown
+- 🌱 I’m a beginner currently taking an intro to comp sci course and learning Markdown, html5 + css + javascript, ruby
 - 💞️ I’m looking to collaborate on neuroqueer spirituality principles
 - 📫 How to reach me: admin@transgressivemedicine.co
