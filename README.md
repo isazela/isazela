@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m @isazela and I'm grappling with being human in a digital world.
 - 👀 I’m interested in neuroqueer spirituality, digital abolitionism and liberatory tech, analog tech, and queer&trans storytelling
 - 🌱 I’m a tech infant, currently taking an intro to comp sci course and learning Markdown, html5 + css + javascript, ruby
-- 💞️ I’m looking to collaborate on neuroqueer spirituality principles and digitak abolitionism
+- 💞️ I’m looking to collaborate on neuroqueer spirituality principles and digital abolitionism
 - 📫 How to reach me: admin@transgressivemedicine.co
