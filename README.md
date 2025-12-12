@@ -1,5 +1,4 @@
 - 👋🏽 Hi, I’m @isazela and I'm grappling with being human in a digital world.
-- 👀 I’m interested in neuroqueer spirituality, digital abolitionism and liberatory tech, analog tech, and queer&trans storytelling
-- 🌱 I’m a tech infant, currently taking an intro to comp sci course and learning Markdown, html5 + css + javascript, ruby
-- 💞️ I’m looking to collaborate on neuroqueer spirituality principles and digital abolitionism
-- 📫 How to reach me: admin@transgressivemedicine.co
+- 👀 I’m interested in neuroqueer spirituality, digital energy work, embodied data, local & offline-first apps, privacy-centered open source & open protocol developemnt, analog tech, and queer & trans archival storytelling.
+- 🌱 I’m a tech toddler with a strong preference for systems development and databases. currently taking intro courses in comp sci, linux, and go.
+- 🖋 creating in bash, markdown, typst, go + bubbletea; stumbling through html5 + css + javascript when necessary
