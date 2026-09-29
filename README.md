@@ -1,4 +1,4 @@
 - 👋🏽 Hi, I’m @isazela and I'm grappling with being human in a digital world.
 - 👀 I’m interested in neuroqueer spirituality, digital energy work, embodied data, local & offline-first apps, privacy-centered open source & open protocol developemnt, analog tech, and queer & trans archival storytelling.
-- 🌱 I’m a tech toddler with a strong preference for systems development and databases. currently taking intro courses in comp sci, linux, and go.
-- 🖋 creating in bash, markdown, typst, go + bubbletea; stumbling through html5 + css + javascript when necessary
+- 🌱 I’m a tech toddler with a strong preference for backend, scripting, and structured text. currently taking intro courses in comp sci, linux, and go.
+- 🖋 creating in bash, fish, vim, lua, markdown, typst, go + bubbletea
